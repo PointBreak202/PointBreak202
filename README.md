@@ -1,16 +1,12 @@
-<table>
-  <tr>
-    <td width="155" align="center" valign="middle">
-      <img src="./assets/chai.gif" width="135" alt="Pixel-art cup of chai rotating" />
-    </td>
-    <td valign="middle">
-      <h1>Hey, I'm Saksham!</h1>
-      Second year CS undergrad @ COEP, Pune.
-      <br /><br />
-      I write code, explore ideas, and figure out how things work.
-    </td>
-  </tr>
-</table>
+<img align="left" src="./assets/chai.gif" width="190" alt="A pixel-art cup of chai rotating" />
+
+# Hey, I'm Saksham!
+
+Second year CS undergrad @ COEP, Pune.
+
+I write code, explore ideas, and figure out how things work.
+
+<br clear="left" />
 
 ### A little about me
 
@@ -27,7 +23,11 @@
 ### GitHub activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/PointBreak202" alt="Saksham's GitHub contribution graph" width="100%" />
+  <img
+    src="https://gh-heat.anishroy.com/api/PointBreak202/svg?theme=purple&darkMode=true&transparent=true"
+    alt="Saksham's GitHub contribution heatmap"
+    width="100%"
+  />
 </p>
 
 <p align="center">
