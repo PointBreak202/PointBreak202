@@ -10,7 +10,7 @@ I write code, explore ideas, and figure out how things work.
 
 ### A little about me
 
-- ☕ Chai enthusiast. Always up for another cup.
+- ☕ Chaha/Chai enthusiast. Always up for another cup.
 - 🏔️ Usually trekking when I'm not programming.
 - 💬 I like meeting people, making new friends, and having good conversations.
 
@@ -31,5 +31,5 @@ I write code, explore ideas, and figure out how things work.
 </p>
 
 <p align="center">
-  <sub>Always happy to chat — even happier if there's chai involved.</sub>
+  <sub>Always happy to chat — even happier if there's chaha involved.</sub>
 </p>
